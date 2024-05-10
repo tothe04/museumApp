@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Museum</string>
+    <string name="default_web_client_id" translatable="false">123.apps.googleusercontent.com</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="registration">Registration</string>
+    <string name="user_name">Username</string>
+    <string name="email_address">E-mail address</string>
+    <string name="password_again">Password again</string>
+    <string name="cancel">Cancel</string>
+    <string name="phone_number">Phone number</string>
+    <string name="address">Postal address</string>
+
+    <string-array name="ticket_types">
+        <item>Adult</item>
+        <item>Child</item>
+        <item>Elderly</item>
+        <item>Student</item>
+    </string-array>
+
+
+    <string name="login_with_google">Log in with google account</string>
+    <string name="login_as_guest">Log in as guest</string>
+    <string name="item_placeholder">Exhibition</string>
+    <string name="item_info_placeholder">Details of exhibition</string>
+
+
+    <string-array name="exhibit_name">
+        <item>Renaissance Reimagined: Artistic Innovations of the 15th Century</item>
+        <item>Beyond the Brush: Contemporary Art in Mixed Media</item>
+        <item>Ancient Civilizations: Lost Worlds Unearthed</item>
+        <item>Surreal Visions: Dreams and Reality in Art</item>
+        <item>Innovators of Impressionism: Masters of Light and Color</item>
+    </string-array>
+
+    <string-array name="exhibit_info">
+        <item>This exhibition explores the transformative period of the Renaissance through a collection of paintings, sculptures, and manuscripts. Visitors will journey through the revival of classical art, humanism, and scientific advancements that defined the era.</item>
+        <item>This exhibition showcases the diverse expressions of contemporary artists who push the boundaries of traditional mediums. From multimedia installations to interactive digital art, visitors will experience the dynamic evolution of artistic techniques and concepts.</item>
+        <item>Delve into the mysteries of ancient civilizations through archaeological discoveries from around the world. From Egyptian tombs to Mayan temples, this exhibition offers insights into the daily lives, beliefs, and achievements of past societies.</item>
+        <item>Explore the surreal landscape of the subconscious mind through a collection of surrealist artworks spanning from the early 20th century to the present day. This exhibition invites visitors to ponder the intersection of dreams, reality, and imagination.</item>
+        <item>Experience the revolutionary techniques and vibrant palettes of the Impressionist masters such as Monet, Renoir, and Degas. This exhibition celebrates the artistic innovation that reshaped the course of art history in the 19th century.</item>
+    </string-array>
+
+    <array name="exhibit_price">
+        <item>15 Dv</item>
+        <item>16 Dv</item>
+        <item>5 Dv</item>
+        <item>20 Dv</item>
+        <item>18 Dv</item>
+    </array>
+
+    <array name="exhibit_available">
+        <item>available</item>
+        <item>available</item>
+        <item>available</item>
+        <item>available</item>
+        <item>available</item>
+    </array>
+
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="enter_quantity">Enter Quantity</string>
+    <string name="purchase">Purchase</string>
+    <string name="welcome_to_our_museum">Welcome to Our Museum!</string>
+    <string name="welcome_text">Explore our exhibits and purchase tickets to visit the museum.</string>
+    <string name="exhibits_button">Explore Exhibits</string>
+    <string name="purchase_button">Purchase Tickets</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+</resources>

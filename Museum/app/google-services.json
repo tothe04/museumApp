@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456242261592",
+    "project_id": "museumticketshop-38675",
+    "storage_bucket": "museumticketshop-38675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456242261592:android:363affd62cdc3aa482642d",
+        "android_client_info": {
+          "package_name": "com.example.museum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456242261592-fdgaeuac9ui68jg07qlt90pjoj1bm3hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.museum",
+            "certificate_hash": "59b8ca88470a1016cd074455ec87f4876301e9b5"
+          }
+        },
+        {
+          "client_id": "456242261592-kefufko76ga25avlegga0c1li6n2mf4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQSFBJoF5kVRVycSYMbUc1Ceg0D3d_E8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456242261592-kefufko76ga25avlegga0c1li6n2mf4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
